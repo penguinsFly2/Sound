@@ -1,0 +1,1 @@
+const ASSETSICON = 'assets/icons';
